@@ -10,7 +10,7 @@ if (empty($_GET['get'])) {
 $headers = [
     'kayo' => [
         "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
-        "dazn-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvb3V0L3YxLzgxNGJmZmI5YjM4OWY2NTIvZDY1ZmVhYzU2NDc5NDllNmI0NWIyNjc0ZDQ3MTUzOTgiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIzOTYzNTYiXSwic3NpZCI6IjE3NzIyNzY5IiwicHJvdG8iOiJkYXNoIiwiaW50c2lnIjoiOFBBZ0szcGFaalh5LXZ5a05FS0FqOTFmc3I5VGp6LUJVcll0cU5fY3Z0YyIsImlhdCI6MTc5MzQzNDMyNywiZXhwIjoxNzkzNTIwNzI3fQ.5wdFVizBDYHP1ay-o5LGGbUCfbIYXvYJt7ZPLrr-OMo",
+        "dazn-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvb3V0L3YxLzc2MWY0MjJiYjkzZWRiN2IvMGNmNTgxMjg0OWZmNGFiZWFlYjI4NzA4YWUyYTYzYTgiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIzOTYzNTYiXSwic3NpZCI6IjE3NzIyNzY5IiwicHJvdG8iOiJkYXNoIiwiaW50c2lnIjoiOFBBZ0szcGFaalh5LXZ5a05FS0FqOTFmc3I5VGp6LUJVcll0cU5fY3Z0YyIsImlhdCI6MTc5MzUwMzk0MSwiZXhwIjoxNzkzNTkwMzQxfQ.ghDNKzp4z3JYdrLOqY3YAFY5rTnw8tlQe6SxatNOuK0",
         "Accept: /",
         "Referer: https://kayosports.com.au/",
         "Origin: https://kayosports.com.au",            
